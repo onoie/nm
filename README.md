@@ -1,1 +1,2 @@
-# nm
+# node module
+ECMAScript6 library
